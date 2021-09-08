@@ -37,3 +37,6 @@ My typical day to day is managing the frontlines of devhub support channels mant
 
 3. Set goals along the way, never reach an arrived mentality with anything.
 
+
+
+
