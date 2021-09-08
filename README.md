@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+#Cedric's Notes for code-102n57 course
 
-You can use the [editor on GitHub](https://github.com/Smacksmack206/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My Name is Cedric Vallieu
 
-### Markdown
+Here is the link to my [GitHub](https://github.com/Smacksmack206).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm head of support at DevHub
 
-```markdown
-Syntax highlighted code block
+I typical day to day is managing the frontlines of devhub support channels mantaining our SLAs with clients, running data reports, and resolving issues with errors and bugs and SSL on sites and proxys for major brands and enterprises utilizing our technology working directly under the CEO and CTO.
 
-# Header 1
-## Header 2
-### Header 3
+- [ ] My goal is to complete Code Fellows and fill in my gaps of knowledge and become some sort of cross functional software as a service executive at my organization. 
 
-- Bulleted
-- List
+##I love running, virtual reality, driving, and relaxing
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+###Enjoying my time here at code fellows so far
 
-[Link](url) and ![Image](src)
-```
+1. My day started at 6 am resolving errors for sites and proxys at work and my day won't be over until class is done tonight and my son is asleep in bed for school.
+2. Time flies when your having fun so this last hour will be quick!
+3. Glad that I already am familiar with Github and Git with previous personal projects I had for myself earlier on in life - I don't use these currently at work
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Requirements
 
-### Jekyll Themes
+- Explain “growth mindset” in your own words
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Smacksmack206/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+**Growth mindset for me is having honest self reflection everyday to further your skill set and knowledge through trial and error and challenging yourself**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+- Include 3 reminders to yourself of how to keep yourself in a growth mindset
+
+
+
+1. Ask for help when needed to fill in any gaps
+
+2. Go out of your comfort zone and try new things, share your thoughts when you might normally might not have
+
+3. Set goals along the way, never reach an arrived mentality with anything.
+
