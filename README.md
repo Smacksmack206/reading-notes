@@ -20,7 +20,7 @@ My typical day to day is managing the frontlines of devhub support channels mant
 I use the terminal daily and use sequel to access our databases at DevHub
 
 
-- [ ] My goal is to complete Code Fellows and fill in my gaps of knowledge and become some sort of cross functional software as a service executive at my organization. 
+- [ ]  My goal is to complete Code Fellows and fill in my gaps of knowledge and become some sort of cross functional software as a service executive at my organization. 
 
 ## I love running, virtual reality, driving, and relaxing
 
