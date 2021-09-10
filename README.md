@@ -1,11 +1,12 @@
 #Cedric's Notes for code-102n57 course
 
 [Learning Markdown](markdown.md)
+<li>
 [The Coder's Computer](TheCodersComputer.md)
+<li>
 [Revisions in the Cloud](revisions.md)
-Reading 4
-Reading 5
-Reading 6
+<li>
+
 
 # About Me
 
