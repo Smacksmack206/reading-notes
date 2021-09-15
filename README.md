@@ -15,6 +15,8 @@
 
 [Dynamic web pages with JavaScript](dynamic-web-pages-with-javascript.md)
 
+[Programming with JavaScript](programming-with-javascript.md)
+
 
 # About Me
 
