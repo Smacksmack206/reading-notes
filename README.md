@@ -17,6 +17,8 @@
 
 [Programming with JavaScript](programming-with-javascript.md)
 
+[Operators and Loops](operators-and-loops.md)
+
 
 # About Me
 
