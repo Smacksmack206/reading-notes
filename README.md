@@ -24,6 +24,8 @@
 
 [Operators and Loops](operators-and-loops.md)
 
+[Introductory HTML and JavaScript](class-01.md)
+
 
 # About Me
 
