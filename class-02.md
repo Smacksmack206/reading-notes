@@ -1,6 +1,6 @@
 #Cedric's Notes for code-201n24 course
 
-# Reading from the Jon Duckett HTML & CSS / Js Books
+# <cite> Reading from the Jon Duckett HTML & CSS / Js Books </cite>
 
 ## Text (pp.40-61)
 
