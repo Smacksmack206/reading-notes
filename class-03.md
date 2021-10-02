@@ -8,7 +8,9 @@ There are lots of occasions when we need to use lists. HTML provides us with thr
 
 
 `<ol>`− An ordered list will used numbers to indicate order.
+
 `<ul>` − An unordered list begins with a bullet point (rather than characters that indicate order).
+
 `<dl>` − A definition list are made up of a set of terms along with the definitions for each of those terms.
 
 ## Boxes (pp.300-329)
