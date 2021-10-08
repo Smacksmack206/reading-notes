@@ -32,6 +32,7 @@
 
 [HTML Links, CSS Layout, JS Functions](class-04.md)
 
+[HTML Images; CSS Color & Text](class-05.md)
 
 # About Me
 

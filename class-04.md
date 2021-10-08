@@ -222,3 +222,80 @@ If you look inside the function, the parameternames are used just as you would u
 
 When you call a function that has arameters , you specify the values it should use in the parentheses that follow its name. The value are called arguments, and they can be rovided as valuies or as varibales.
 
+### Getting A Single Value Out Of a Function
+
+Some functions return information to the code that called them. 
+For examle, when they perform a calculation, they return the result.
+
+This calculateArea() function returns the area of a rectangle to the code that called it.
+
+Inside the function, a variable called area is created. It holds the calculated area of the box.
+
+The return keyword is used to return a value to the code that called the function.
+
+``` function calculatedArea(width, height) {
+    var area = width * height:
+    return area;
+} 
+var wallOne = calculateArea(3, 5);
+var wallTwo = calculateArea(8, 5);
+```
+
+Note that the interreter leaves the function when return is used. It goes back to the statement that called it. If there had been any subsequent statements in this function, they would not be processed.
+
+The wallOne variable holds the value 15, which was calculated by the calculateArea() fucntion.
+
+The wallTwo variable holds the value 40, which was caluclated by the same calculateArea() function. 
+
+This also demostrates how the same function can be used to erform the same steps into diffrent values.
+
+### Getting Multiple Values Out Of a Function
+
+Functions can return more than one value using an array.
+For example, this function calculates the area and volume of a box.
+
+First, a new fucntion is created called getSize().
+THe area of the box is caluculated and stored in a variable called area.
+
+The volume is caluculated and stored in a variable called volume.
+Both are then laced into an array called sizes.
+
+This array is then return to the code taht called the getSize() function.
+Allowing the values to used.
+
+``` function getSize(width, height, depth) {
+    var area =width * height;
+    var volume - width * height * depth;
+    var  sizes = [area, volume];
+    return sizes;
+}
+var areaOne = getSize(3, 2, 3)[0];
+var volumeOne = getSize(3, 2, 3)[1]; ```
+
+The areaOne variable hold the area of a box that is 3x2.
+The area is the first value in the size4s array.
+
+The volumeOne varible holds the volume of a box that is 3 x 2 x 3. the volume is the second value in the sizes array.
+
+### Anonymous Functions & Functions Exressions
+
+Exressions roduce a value. They can be used where values are expected if a fucntion is placed where a browser expects to see an expression, (eg: as an argument to a function), then it gets treated as an expression.
+
+#### Funciton Declaration
+A function declaration creates a function that you can call later in your code. It is the tye of function you have seen so far in this book.
+
+In order to call the function later in your code, you must give it a name, so these are known as named fucntions. Below a function called area() is declared, which can then be called using its name.
+
+``` fucntion area(width, height) {
+    return width * height;
+}
+
+var size = area (3, 4); ```
+
+The interpreter always looks for variables and function declarations before going through each section of a scrit, line by line.
+This means that a fucntion created with a function declartion can be called before it has even been declared.
+
+### Fucntion Exression
+
+If you put a function where the interreter would expect to see an expression, then it is treated as an expression, the name is usually omitted.
+A fucntion with no name is called an anonymous function. Below, the function is stored in a variable called area. It can be called like any fucntion created with a a function declaration.
