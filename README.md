@@ -34,6 +34,8 @@
 
 [HTML Images; CSS Color & Text](class-05.md)
 
+[JS Object Literals; The DOM](class-06.md)
+
 # About Me
 
 My Name is Cedric Vallieu
