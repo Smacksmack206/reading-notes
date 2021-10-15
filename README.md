@@ -36,6 +36,8 @@
 
 [JS Object Literals; The DOM](class-06.md)
 
+[Object-Oriented Programming, HTML Tables](class-07.md)
+
 # About Me
 
 My Name is Cedric Vallieu
