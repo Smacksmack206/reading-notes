@@ -108,4 +108,4 @@ You can include a CSS framework instead of writing CSS from scratch.
 
 You can use ``@import url(" ")`` to add multiple style sheets within the CSS file
 
-Or could use link tags within the html
+Or could use link tags within the html.
