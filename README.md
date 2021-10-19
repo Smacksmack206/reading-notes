@@ -38,6 +38,8 @@
 
 [Object-Oriented Programming, HTML Tables](class-07.md)
 
+[CSS Layout](class-08.md)
+
 # About Me
 
 My Name is Cedric Vallieu
