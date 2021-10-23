@@ -40,6 +40,8 @@
 
 [CSS Layout](class-08.md)
 
+[Forms and JS Events](class-09.md)
+
 # About Me
 
 My Name is Cedric Vallieu
