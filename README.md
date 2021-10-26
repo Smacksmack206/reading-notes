@@ -42,6 +42,8 @@
 
 [Forms and JS Events](class-09.md)
 
+[Error Handling & Debugging](class-10.md)
+
 # About Me
 
 My Name is Cedric Vallieu
