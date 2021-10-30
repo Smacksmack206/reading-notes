@@ -54,7 +54,7 @@ body {
 ```
 
 ## HTML5 video and audio (MDN)
-The <video> and <audio> elements allow us to embed video and audio into web pages. As we showed in Video and audio content, a typical implementation looks like this:
+The `<video>` and `<audio>` elements allow us to embed video and audio into web pages. As we showed in Video and audio content, a typical implementation looks like this:
 
 ```
 <video controls>
