@@ -44,6 +44,8 @@
 
 [Error Handling & Debugging](class-10.md)
 
+[Audio, Video, Images](class-11.md)
+
 # About Me
 
 My Name is Cedric Vallieu
