@@ -73,5 +73,38 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/V
 
 SEO requires accurate use of elements giving the webpage semantic information Search Engines can use to give context and define a webpage for users to search within the entire indexable web, using the right elements increases the relavency and chances targeted traffic will land on your page as well as increase the chance for higher organic ranking. 
 
-Google analyitics is one of the best free tools available for webmasters, web admins, and websites to track numerous KPIs like page visits, reffering domain, link clicks, etc.
-Setting up GA on a site is easy and quick, you would just need to add code to the head of your site which you can find in the GA Docs.
+### How to identify keyowrds and phrases
+
+Brainstorm - List down words someone might type into Google to find your site, include various services and products.
+
+Organize - Group keywords into seprate lists for different sections or catagories of your site.
+
+Research - Use Google Adwords, Wordtracker.com, or keyworddicovery.com to enter your keywords and get suggested addtional keywords to consider.
+
+Compare - Look at the competition and optimize further by seeing how they optimized for a specific term.
+
+Refine - Pick the keywords you want to focus on.
+
+Map - Start picking keywords for each page.
+
+### Anaytics: Learning about your vistiors
+
+Signing up - The GA services relies on you signing up at:
+
+`www.google.com/analytics`
+
+How it works - Every times osmeone loads a page of your site, the trackign code sends data to the Google serverss where it is stored.
+Google then provides a web-based interface that allows you to see how visstors use your site.
+
+The tracking code - A tracking code is provided by Google Analytics for each website you are tracking. it should appear just before your `<head>` tag. The code does not alter the appearance of your page.
+
+
+### How many people are coming to your site? (pp.484)
+
+Visits
+Unique Visits
+Page Views
+Pages per Visit
+Average time on site
+Date Selector
+Export
