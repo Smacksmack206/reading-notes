@@ -46,6 +46,8 @@
 
 [Audio, Video, Images](class-11.md)
 
+[Chart.js, Canvas](class-12.md)
+
 # About Me
 
 My Name is Cedric Vallieu
