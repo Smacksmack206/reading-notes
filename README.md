@@ -48,6 +48,8 @@
 
 [Chart.js, Canvas](class-12.md)
 
+[Local Storage](class-13.md)
+
 # About Me
 
 My Name is Cedric Vallieu
