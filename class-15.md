@@ -1,6 +1,6 @@
 #Cedric's Notes for code-201n24 course
 
-# <cite> Reading from the Jon Duckett HTML book && W3Schools </cite>
+# <cite> Reading from nytimes.com Article</cite>
 
 # What Google Learned About Teams
 
