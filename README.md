@@ -50,6 +50,10 @@
 
 [Local Storage](class-13.md)
 
+[CSS Transforms, Transitions, and Animations](class-14.md)
+
+[What Google Learned About Teams - Psycological Safety](class-15.md)
+
 # About Me
 
 My Name is Cedric Vallieu
