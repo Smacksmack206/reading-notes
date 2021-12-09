@@ -54,3 +54,4 @@ Props are used in react to pass data between components
 
 - What is the flow of props?
 Props can only be passed to components in one way (parent to child)
+ 
