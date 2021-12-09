@@ -1,8 +1,3 @@
-#Code-201 Reading Notes
-<br>
-<br>
-<br>
-
 ## Cedric's Notes for code-102n57 course
 
 [Learning Markdown](markdown.md)
@@ -58,10 +53,10 @@
 [What Google Learned About Teams - Psycological Safety](class-15.md)
 
 ## Cedric's Notes for code-301 course
-
+<br>
 
 ## Cedric's Notes for code-401 course
-
+<br>
 
 # About Me
 
