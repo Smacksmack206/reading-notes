@@ -53,7 +53,8 @@
 [What Google Learned About Teams - Psycological Safety](class-15.md)
 
 ## Cedric's Notes for code-301 course
-<br>
+[Introduction to React and Components
+](Introduction-to-React-and-Components.md)
 
 ## Cedric's Notes for code-401 course
 <br>
