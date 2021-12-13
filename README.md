@@ -55,6 +55,8 @@
 ## Cedric's Notes for code-301 course
 [Introduction to React and Components](into-react-componets.md)
 
+[React State and Props](State-and-Props.md)
+
 ## Cedric's Notes for code-401 course
 <br>
 
