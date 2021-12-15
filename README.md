@@ -1,61 +1,61 @@
 ## Cedric's Notes for code-102n57 course
 
-[Learning Markdown](markdown.md)
+[Learning Markdown](102/markdown.md)
 <br>
 
-[The Coder's Computer](TheCodersComputer.md)
+[The Coder's Computer](102/TheCodersComputer.md)
 <br>
 
-[Revisions in the Cloud](revisions.md)
+[Revisions in the Cloud](102/revisions.md)
 <br>
 
-[Structure web pages with HTML](html.markdown.md)
+[Structure web pages with HTML](102/html.markdown.md)
 
-[CSS](CSS.md)
+[CSS](102/CSS.md)
 
-[Dynamic web pages with JavaScript](dynamic-web-pages-with-javascript.md)
+[Dynamic web pages with JavaScript](102/dynamic-web-pages-with-javascript.md)
 
-[Programming with JavaScript](programming-with-javascript.md)
+[Programming with JavaScript](102/programming-with-javascript.md)
 
-[Operators and Loops](operators-and-loops.md)
+[Operators and Loops](102/operators-and-loops.md)
 
 ## Cedric's Notes for code-201 course
 
 
-[Introductory HTML and JavaScript](class-01.md)
+[Introductory HTML and JavaScript](201/class-01.md)
 
-[HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
+[HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/class-02.md)
 
-[HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
+[HTML Lists, Control Flow with JS, and the CSS Box Model](201/class-03.md)
 
-[HTML Links, CSS Layout, JS Functions](class-04.md)
+[HTML Links, CSS Layout, JS Functions](201/class-04.md)
 
-[HTML Images; CSS Color & Text](class-05.md)
+[HTML Images; CSS Color & Text](201/class-05.md)
 
-[JS Object Literals; The DOM](class-06.md)
+[JS Object Literals; The DOM](201/class-06.md)
 
-[Object-Oriented Programming, HTML Tables](class-07.md)
+[Object-Oriented Programming, HTML Tables](201/class-07.md)
 
-[CSS Layout](class-08.md)
+[CSS Layout](201/class-08.md)
 
-[Forms and JS Events](class-09.md)
+[Forms and JS Events](201/class-09.md)
 
-[Error Handling & Debugging](class-10.md)
+[Error Handling & Debugging](201/class-10.md)
 
-[Audio, Video, Images](class-11.md)
+[Audio, Video, Images](201/class-11.md)
 
-[Chart.js, Canvas](class-12.md)
+[Chart.js, Canvas](201/class-12.md)
 
-[Local Storage](class-13.md)
+[Local Storage](201/class-13.md)
 
-[CSS Transforms, Transitions, and Animations](class-14.md)
+[CSS Transforms, Transitions, and Animations](201/class-14.md)
 
-[What Google Learned About Teams - Psycological Safety](class-15.md)
+[What Google Learned About Teams - Psycological Safety](201/class-15.md)
 
 ## Cedric's Notes for code-301 course
-[Introduction to React and Components](into-react-componets.md)
+[Introduction to React and Components](301/into-react-componets.md)
 
-[React State and Props](State-and-Props.md)
+[React State and Props](301/State-and-Props.md)
 
 ## Cedric's Notes for code-401 course
 <br>
