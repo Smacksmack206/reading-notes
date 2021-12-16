@@ -57,6 +57,8 @@
 
 [React State and Props](301/State-and-Props.md)
 
+[Passing Functions as Props](301/Passing-Functions-as-Props.md)
+
 ## Cedric's Notes for code-401 course
 <br>
 
