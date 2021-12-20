@@ -59,6 +59,8 @@
 
 [Passing Functions as Props](301/Passing-Functions-as-Props.md)
 
+[React and forms](301/React-and-form.md)
+
 ## Cedric's Notes for code-401 course
 <br>
 
