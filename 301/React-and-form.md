@@ -1,6 +1,7 @@
-#Cedric's Notes for code-301n24 course
+# Cedric's Notes for code-301n24 course
 
 ## React Docs - Forms
+
 - What is a ‘Controlled Component’?
 a component renders form elements and controls them by keeping the form data in the component's state.
 
@@ -17,11 +18,12 @@ Shorten if statements lines of code
 
 - Rewrite the following statement using a ternary statement:
 
-``` if(x===y){
- console.log(true);
-  } else {
+``` javascript
+if(x===y){ console.log(true);
+} else {
  console.log(false);
-  } ```
+  } 
+```
 
 ``` x===y ? 'console.log(true)' : 'console.log(false)'; ```
 
