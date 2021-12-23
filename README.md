@@ -61,6 +61,8 @@
 
 [React and forms](301/React-and-form.md)
 
+[Putting it all together](301/Putting-it-all-together.md)
+
 ## Cedric's Notes for code-401 course
 <br>
 
