@@ -1,4 +1,4 @@
-#Cedric's Notes for code-301n24 course
+# Cedric's Notes for code-301n24 course
 
 ## Putting it all together
 

@@ -1,4 +1,4 @@
-#Cedric's Notes for code-301n24 course
+# Cedric's Notes for code-301n24 course
 
 ## React Docs - List and Keys
 
