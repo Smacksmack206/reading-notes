@@ -63,7 +63,7 @@
 
 [Putting it all together](301/Putting-it-all-together.md)
 
-[NODE.JS](301/NODE-JS.md)
+[NODE.JS](301/Node.md)
 
 
 ## Cedric's Notes for code-401 course
