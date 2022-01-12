@@ -69,6 +69,7 @@
 
 [APIs](301/APIs.md)
 
+[Functional Programming](301/Functional-Programming.md)
 
 ## Cedric's Notes for code-401 course
 <br>
