@@ -71,6 +71,9 @@
 
 [Functional Programming](301/Functional-Programming.md)
 
+[Memory-Storage](301/memory-storage.md)
+
+
 ## Cedric's Notes for code-401 course
 <br>
 
