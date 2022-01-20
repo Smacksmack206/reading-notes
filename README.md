@@ -73,6 +73,10 @@
 
 [Memory-Storage](301/memory-storage.md)
 
+[nosql vs sql](301/nosql-vs-sql.md)
+
+[CRUD](301/CRUD.md)
+
 
 ## Cedric's Notes for code-401 course
 <br>
