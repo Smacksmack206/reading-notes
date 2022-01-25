@@ -77,6 +77,8 @@
 
 [CRUD](301/CRUD.md)
 
+[DIVERSITY](301/Diversity.md)
+
 
 ## Cedric's Notes for code-401 course
 <br>
