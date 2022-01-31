@@ -79,6 +79,7 @@
 
 [DIVERSITY](301/Diversity.md)
 
+[Authentication](301/Authentication.md)
 
 ## Cedric's Notes for code-401 course
 <br>
