@@ -81,6 +81,8 @@
 
 [Authentication](301/Authentication.md)
 
+[More CRUD](301/More-CRUD.md)
+
 ## Cedric's Notes for code-401 course
 <br>
 
